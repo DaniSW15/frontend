@@ -1,0 +1,1 @@
+export { PalindromesView } from "./views/PalindromesView";
